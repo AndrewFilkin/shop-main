@@ -1,0 +1,10 @@
+.links {
+    display: flex;
+    align-items: center;
+}
+
+.close-link {
+    margin-left: 10px; /* Регулируйте отступ, чтобы достичь нужного расстояния между ссылками */
+    text-decoration: none;
+    color: red; /* Цвет крестика */
+}
